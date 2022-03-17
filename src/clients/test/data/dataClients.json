@@ -1,0 +1,20 @@
+[
+    {
+        "id": "d662da22-473c-4538-969e-9441f6b4977b",
+        "name": "Ripley",
+        "shortName": "RPL",
+        "active": true
+    },
+    {
+        "id": "f2851e03-15bc-4033-8795-bcf700e5b1aa",
+        "name": "Jumbo",
+        "shortName": "JMB",
+        "active": true
+    },
+    {
+        "id": "75c6cad6-c25a-44d3-836e-81ce117f214a",
+        "name": "SERVIU",
+        "shortName": "SRV",
+        "active": true
+    }
+]
